@@ -14,7 +14,7 @@ Annexes :
  - Utilisation Avancée d'ArgoCD
  - Troubleshooting
  - Ressources
- - GitOps
+ - GitOps 
 
 <a name="introduction"></a>
 ## 1. Introduction
